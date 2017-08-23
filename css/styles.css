@@ -1,0 +1,25 @@
+.mainImage {
+    width: 100%;
+    height: auto;
+}
+
+.cover {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading {
+    width: 100px;
+    height: 30px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+    line-height: 30px;
+}
